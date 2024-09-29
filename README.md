@@ -12,6 +12,7 @@ Welcome to the **College Application Preparation Platform**! This platform is de
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- Contracts Addresses : 0x0813d4a158d06784FDB48323344896B2B1aa0F85
 
 ## Features
 
